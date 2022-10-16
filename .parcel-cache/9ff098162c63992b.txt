@@ -34,13 +34,13 @@
 64C:\practikum\github\practikum\node_modules\lodash\isEqualWith.js133103374404859216 0
 55C:\practikum\github\practikum\node_modules\import-fresh133103993964557338 1
 74C:\practikum\github\practikum\node_modules\caniuse-lite\data\regions\VA.js133103389115790591 0
-40C:\practikum\github\practikum\.gitignore133104009955177934 0
+40C:\practikum\github\practikum\.gitignore133104016701891147 0
 62C:\practikum\github\practikum\node_modules\lodash\fp\negate.js133103374405550996 0
 58C:\practikum\github\practikum\node_modules\xtend\.jshintrc133103368148763427 0
 66C:\practikum\github\practikum\node_modules\@types\node\domain.d.ts133098545598884581 0
 86C:\practikum\github\practikum\node_modules\widest-line\node_modules\ansi-regex\license133103374393355310 0
 64C:\practikum\github\practikum\node_modules\parse-asn1\fixProc.js133103448583240962 0
-35C:\practikum\github\practikum\.idea133104010942882847 1
+35C:\practikum\github\practikum\.idea133104025253999246 1
 65C:\practikum\github\practikum\node_modules\lmdb\dependencies\lmdb133103993976912847 1
 48C:\practikum\github\practikum\node_modules\boxen133103993857737901 1
 53C:\practikum\github\practikum\node_modules\arr-filter133103993837990865 1
@@ -118,7 +118,7 @@
 88C:\practikum\github\practikum\node_modules\caniuse-lite\data\features\document-policy.js133103389112625263 0
 66C:\practikum\github\practikum\node_modules\is-fullwidth-code-point133103993968730327 1
 75C:\practikum\github\practikum\node_modules\core-js\fn\array\virtual\find.js133103374406396524 0
-38C:\practikum\github\practikum\index.js133104012201057889 0
+38C:\practikum\github\practikum\index.js133104021656854929 0
 73C:\practikum\github\practikum\node_modules\which-typed-array\CHANGELOG.md133103448636678627 0
 80C:\practikum\github\practikum\node_modules\es-abstract\2020\BigInt\bitwiseNOT.js133103448637731944 0
 68C:\practikum\github\practikum\node_modules\core-js\library\fn\number133103993888035945 1
@@ -18009,4 +18009,4 @@
 52C:\practikum\github\practikum\dist\index.63aff760.js133103997852544398 0
 54C:\practikum\github\practikum\dist\sprint1.3464ddca.js133103944513183437 0
 58C:\practikum\github\practikum\dist\sprint1.3464ddca.js.map133103944513193667 0
-49C:\practikum\github\practikum\.idea\workspace.xml133104010942872873 0
+49C:\practikum\github\practikum\.idea\workspace.xml133104025253989254 0
