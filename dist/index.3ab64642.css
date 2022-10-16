@@ -1,0 +1,65 @@
+.testmain {
+  height: 558px;
+  border: solid #000;
+  flex-flow: row;
+  justify-content: flex-start;
+  margin: 5px;
+  display: inline-flex;
+}
+
+.itemtest {
+  width: 375px;
+  border: solid red;
+  flex-direction: column;
+  margin: 5px;
+  display: flex;
+  overflow: auto;
+}
+
+.testformessage {
+  height: 100%;
+  border: solid green;
+  overflow: auto;
+}
+
+.testforbtn {
+  border: solid #ff0;
+}
+
+.mainmenu {
+  border: solid #000;
+  flex-flow: row;
+  justify-content: flex-start;
+  margin: 5px;
+  display: inline-flex;
+}
+
+.menuitem {
+  background-color: #ddd;
+  padding: 8px;
+  text-decoration: none;
+}
+
+.menuitem a {
+  color: #000;
+  text-decoration: none;
+}
+
+.active {
+  color: #f0f8ff;
+  background-color: #000;
+  padding: 8px;
+}
+
+.active a {
+  color: #f0f8ff;
+  text-decoration: none;
+}
+
+.error {
+  text-align: center;
+  margin: auto;
+  font-size: 5em;
+}
+
+/*# sourceMappingURL=index.3ab64642.css.map */

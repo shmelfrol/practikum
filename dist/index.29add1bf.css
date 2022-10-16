@@ -1,0 +1,19 @@
+form.form-example {
+  margin: 5px;
+  display: table;
+}
+
+div.form-example {
+  display: table-row;
+}
+
+label, input {
+  margin-bottom: 10px;
+  display: table-cell;
+}
+
+label {
+  padding-right: 10px;
+}
+
+/*# sourceMappingURL=index.29add1bf.css.map */

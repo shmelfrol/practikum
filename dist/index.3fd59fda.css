@@ -1,0 +1,111 @@
+.full-chat-block {
+  width: 350px;
+  text-align: center;
+  scrollbar-width: none;
+  height: -moz-max-content;
+  height: max-content;
+  background: #fff;
+  transition: max-height .2s ease-out;
+  overflow: auto;
+}
+
+.outer-container {
+  min-height: 500px;
+  position: relative;
+  bottom: 0%;
+}
+
+.chat-container {
+  max-height: 500px;
+  width: 100%;
+  scroll-behavior: smooth;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.usermessages {
+  width: 316px;
+  height: 540px;
+  display: flex;
+  overflow-y: auto;
+}
+
+.botText {
+  color: #000;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.botText span {
+  max-width: 80%;
+  background: #e0e0e0;
+  border-radius: 8px 8px 2px;
+  margin-left: 10px;
+  padding: 10px;
+  line-height: 1.5em;
+  animation: .5s forwards floatup;
+  display: inline-block;
+}
+
+.userText {
+  color: #fff;
+  text-align: right;
+  clear: both;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.userText span {
+  max-width: 80%;
+  background: #5ca6fa;
+  border-radius: 8px 8px 8px 2px;
+  margin-right: 10px;
+  padding: 10px;
+  line-height: 1.5em;
+  animation: .5s forwards floatup;
+  display: inline-block;
+}
+
+.userchatfora {
+  text-decoration: none;
+}
+
+.userimg {
+  float: left;
+  height: 45px;
+  width: 45px;
+  margin: 2px 5px 2px 2px;
+}
+
+.userchat p {
+  max-width: 160px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-top: 12px;
+  overflow: hidden;
+}
+
+.userchat {
+  height: 50px;
+  color: #000;
+  border: solid #000;
+  margin: 5px;
+}
+
+.userchat h5 {
+  margin-top: 0;
+  margin-bottom: 2px;
+}
+
+.userchatactive {
+  color: #f0f8ff;
+  background: #000;
+}
+
+/*# sourceMappingURL=index.3fd59fda.css.map */
