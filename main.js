@@ -6,7 +6,7 @@ var fs = require('fs');
 var pages=['/chat', '/contacts', '/settings', '/login', '/reg'];
 var path=window.location.pathname;
 var getparam=window.location.search
-var fullpath='/modules'+path+path+'.ejs'
+//var fullpath='/modules'+path+path+'.ejs'
 
 var htmlContent = fs.readFileSync(__dirname + '/modules/navbar/navbar.ejs', 'utf8');
 var htmlRenderized = ejs.render(htmlContent, {active: path});
