@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79b0c150-39f5-45cd-b849-199a316a3b52" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.parcel-cache/5d102dff0a3f4e7e" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/5d102dff0a3f4e7e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.parcel-cache/8ec8b337af6fb088" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/8ec8b337af6fb088" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.parcel-cache/994d8e47a1be7201" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/994d8e47a1be7201" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.parcel-cache/9ff098162c63992b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/9ff098162c63992b.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.parcel-cache/data.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/data.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665926173328</updated>
-      <workItem from="1665926174472" duration="3244000" />
+      <workItem from="1665926174472" duration="4377000" />
     </task>
     <servers />
   </component>
